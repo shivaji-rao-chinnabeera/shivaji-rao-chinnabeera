@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shivaji-rao-chinnabeera
+- 👋 Hi, I’m @shivvv
 - 👀 I’m interested in Web and Application Development 
 - 🌱 I’m currently learning HTML and CSS
 - 💞️ I’m looking to collaborate on ...
